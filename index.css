@@ -153,22 +153,6 @@ footer .foot-links ul li {
 footer .foot-links b {
   padding-bottom: 10px;
 }
-footer .newsletter {
-  display: flex;
-  flex-direction: column;
-}
-footer .newsletter button {
-  width: fit-content;
-}
-footer .newsletter input {
-  padding: 10px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border-radius: 10px;
-  border: none;
-  outline: none;
-}
-
 .About-main-cont {
   display: flex;
   align-items: center;
@@ -294,10 +278,7 @@ footer .copy-rights{
       display:inline-block;
       font-size:14px;
   }
-  footer .newsletter{
-      margin-top:30px;
-      width: 80%;
-  } 
+
  
 
   
